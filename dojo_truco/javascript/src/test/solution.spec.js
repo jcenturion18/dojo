@@ -1,13 +1,13 @@
 import { expect } from 'chai';
 
-import Player from '../src/main/Player';
-import Bajada from '../src/main/Bajada';
-import UnoDeEspada from '../src/main/UnoDeEspada';
-import TresDeEspada from '../src/main/TresDeEspada';
-import CuatroDeCopa from '../src/main/CuatroDeCopa';
-import UnoDeBasto from '../src/main/UnoDeBasto';
-import CuatroDeBasto from '../src/main/CuatroDeBasto';
-import SieteDeBasto from '../src/main/SieteDeBasto';
+import Player from '../main/Player';
+import Bajada from '../main/Bajada';
+import UnoDeEspada from '../main/UnoDeEspada';
+import TresDeEspada from '../main/TresDeEspada';
+import CuatroDeCopa from '../main/CuatroDeCopa';
+import UnoDeBasto from '../main/UnoDeBasto';
+import CuatroDeBasto from '../main/CuatroDeBasto';
+import SieteDeBasto from '../main/SieteDeBasto';
 
 /*
 El jugador 1 tiene el ancho de espada, 3 de espada, 4 de copas
