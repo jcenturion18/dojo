@@ -9,7 +9,6 @@ import UnoDeBasto from '../src/main/UnoDeBasto';
 import CuatroDeBasto from '../src/main/CuatroDeBasto';
 import SieteDeBasto from '../src/main/SieteDeBasto';
 
-
 /*
 El jugador 1 tiene el ancho de espada, 3 de espada, 4 de copas
 El jugador 2 tiene el ancho de basto, 4 de basto y 7 de basto
