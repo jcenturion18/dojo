@@ -1,4 +1,5 @@
-function CuatroDeCopa() {
+class CuatroDeCopa {
 }
 
-module.exports = CuatroDeCopa;
+export default CuatroDeCopa;
+

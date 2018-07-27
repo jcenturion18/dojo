@@ -1,4 +1,5 @@
-function CuatroDeBasto() {
+class CuatroDeBasto {
 }
 
-module.exports = CuatroDeBasto;
+export default CuatroDeBasto;
+

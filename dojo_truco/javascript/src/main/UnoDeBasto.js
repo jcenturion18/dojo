@@ -1,4 +1,4 @@
-function UnoDeBasto() {
+class UnoDeBasto {
 }
 
-module.exports = UnoDeBasto;
+export default UnoDeBasto;

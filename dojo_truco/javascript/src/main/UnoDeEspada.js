@@ -1,4 +1,4 @@
-function UnoDeEspada() {
+class UnoDeEspada {
 }
 
-module.exports = UnoDeEspada;
+export default UnoDeEspada;

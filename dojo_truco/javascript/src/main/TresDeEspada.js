@@ -1,4 +1,4 @@
-function TresDeEspada() {
+class TresDeEspada {
 }
 
-module.exports = TresDeEspada;
+export default TresDeEspada;

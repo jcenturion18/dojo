@@ -1,4 +1,4 @@
-function SieteDeBasto() {
+class SieteDeBasto {
 }
 
-module.exports = SieteDeBasto;
+export default SieteDeBasto;
