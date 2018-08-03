@@ -19,7 +19,7 @@ class Player{
     }
 
     isEqual(otherPlayer){
-    	return this == otherPlayer;
+    	return this === otherPlayer;
     }
 
     bajada(bajada, previousWinner){

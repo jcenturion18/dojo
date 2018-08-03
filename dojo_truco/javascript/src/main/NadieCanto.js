@@ -1,11 +1,10 @@
 class NadieCanto {
 
 	constructor() {
-		this.points = 1
 	}
 
   isEqual(instance) {
-    return this.points === instance.points;
+    return instance instanceof NadieCanto;
   }
 }
 
