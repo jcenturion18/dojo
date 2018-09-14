@@ -1,6 +1,6 @@
 ### Modelo de problema
 
-Este es un ejemplo para describir como definir una clase así como sus pruebas. 
+Este es un ejemplo para describir como definir una clase así como sus pruebas.
 
 ### Metodología
 
@@ -12,39 +12,39 @@ Programación orientada a objetos + TDD
 2. Codificación (30 - 40 minutos)
 3. Puesta en común (Hasta el final)
 
-## Pasos para realizar el workshop 
+## Pasos para realizar el workshop
 
 1. Clonamos el repo:
 
-    ```bash
-        git clone https://github.com/diegosanchez/dojo.git
-    ```
+```bash
+git clone https://github.com/diegosanchez/dojo.git
+```
 
 2. Descargamos el branch remote correspondiente al workshop:
 
-    ```bash
-        git checkout workshop
-    ```
+```bash
+git checkout workshop
+```
 
 ### Pasos específicos para javascript
 
 1. Instalamos módulos
 
-    ```bash
-        npm install
-    ```
+```bash
+npm install
+```
 
 2. Ejecutamos los tests
 
-    ```bash
-        npm run test
-    ```
-    
-    o
-    
-    ```bash
-        make
-    ```
+```bash
+npm run test
+```
+
+o
+
+```bash
+make
+```
 
 #### Qué necesito?
 
@@ -56,10 +56,10 @@ Programación orientada a objetos + TDD
 
 1. Ejecutamos los tests
 
-    ```bash
-        mvn test
-        ( Estando en la carpeta que contiene el pom.xml )
-    ```
+```bash
+mvn test
+( Estando en la carpeta que contiene el pom.xml )
+```
 
 
 
@@ -68,8 +68,16 @@ Programación orientada a objetos + TDD
 1. Maven 3+ ( brew install maven )
 2. JDK 1.7 u 1.8## Pasos para realizar el workshop
 
+### Pasos específicos para swift
+1. Abrimos el .xcodeproj con Xcode.
+2. Ejecutamos los test
+```CMD + U ```
+
+#### Qué necesito?
+1. Xcode 9+
 
 ## Qué necesito?
 
 1. Notebook para realizar workshop (si queres hacerlo, sino podes venir a compartir tus experiencias)
 2. Ganas de compartir tu solución.
+
